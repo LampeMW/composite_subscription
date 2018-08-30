@@ -1,5 +1,7 @@
 name: composite_subscription
 version: 0.1.0
+environment:
+   sdk: '>=1.19.0 <3.0.0'
 homepage: https://github.com/JosephMoniz/dart-composite-subscription
 description: >
   A composite pattern for multiple stream subscriptions
